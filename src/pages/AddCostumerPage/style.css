@@ -1,0 +1,9 @@
+#add-costumer-page-line-1{
+    padding-bottom: 5%;
+}
+
+#add-costumer-page-line-2{
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+}
